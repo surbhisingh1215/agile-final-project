@@ -1,2 +1,2 @@
 # agile-final-project
-final project for ibm honors certificate
+Final project for IBM honors certificate
